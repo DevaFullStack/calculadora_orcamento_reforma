@@ -1,3 +1,8 @@
+![Licença MIT](https://img.shields.io/badge/licença-MIT-blue.svg)
+![Feito com Python](https://img.shields.io/badge/feito%20com-Python-3776AB.svg)
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow.svg)
+![Autora](https://img.shields.io/badge/autora-DevAnalista-purple)
+
 # 🛠️ Calculadora de Orçamento para Pequenas Reformas
 
 Este projeto foi desenvolvido como parte do curso **"Python para Data Science: Primeiros Passos"** da Alura, ministrado pela instrutora Mirla, através do programa **ONE - Oracle Next Education**.
