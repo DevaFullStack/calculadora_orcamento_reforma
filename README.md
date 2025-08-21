@@ -1,3 +1,5 @@
+![Descrição da imagem](./banner_readme.png)
+
 ![Licença MIT](https://img.shields.io/badge/licença-MIT-blue.svg)
 ![Feito com Python](https://img.shields.io/badge/feito%20com-Python-3776AB.svg)
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow.svg)
